@@ -1,0 +1,107 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction, Historical Fiction",
+        "read": true
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction, Historical Fiction",
+        "read": true
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction, Historical Fiction",
+        "read": false
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian, Political Fiction",
+        "read": false
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "Romance, Classic",
+        "read": false
+    },
+    {
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "year": 2008,
+        "genre": "Software Engineering, Programming",
+        "read": true
+    },
+    {
+        "title": "The Pragmatic Programmer: Your Journey to Mastery",
+        "author": "Andrew Hunt, David Thomas",
+        "year": 1999,
+        "genre": "Software Engineering, Programming",
+        "read": true
+    },
+    {
+        "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+        "year": 1994,
+        "genre": "Software Engineering, Programming",
+        "read": false
+    },
+    {
+        "title": "Refactoring: Improving the Design of Existing Code",
+        "author": " Martin Fowler",
+        "year": 1999,
+        "genre": "Software Engineering, Programming",
+        "read": false
+    },
+    {
+        "title": "Code Complete: A Practical Handbook of Software Construction",
+        "author": "Steve McConnell",
+        "year": 1993,
+        "genre": "Software Engineering, Programming",
+        "read": false
+    },
+    {
+        "title": "The Mythical Man-Month: Essays on Software Engineering",
+        "author": " Frederick P. Brooks Jr.",
+        "year": 1975,
+        "genre": "Software Engineering, Programming",
+        "read": false
+    },
+    {
+        "title": "Structure and Interpretation of Computer Programs",
+        "author": "Harold Abelson, Gerald Jay Sussman",
+        "year": 1985,
+        "genre": "Software Engineering, Programming",
+        "read": false
+    },
+    {
+        "title": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
+        "author": "Jez Humble, David Farley",
+        "year": 2010,
+        "genre": "Software Engineering, DevOps",
+        "read": false
+    },
+    {
+        "title": "Patterns of Enterprise Application Architecture",
+        "author": "Martin Fowler",
+        "year": 2002,
+        "genre": " Software Engineering, Architecture",
+        "read": false
+    },
+    {
+        "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
+        "author": "Robert C. Martin",
+        "year": 2011,
+        "genre": "Software Engineering, Professionalism",
+        "read": false
+    }
+]
