@@ -46,7 +46,7 @@ Streamlit Forms are used for cleaner user input.
 # 📁 Project Structure
 Personal-Library-Manager/
 │
-├── library_manager_streamlit.py
+├── library_manager.py
 ├── library.txt
 └── README.md                      
 
