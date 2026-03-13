@@ -31,16 +31,15 @@ Built with Python, this app lets you add, remove, search, and view books while t
    ```bash
    git clone https://github.com/your-username/Personal-Library-Manager.git
    cd Personal-Library-Manager
-   ```bash
-   https://personal-library-manager-jgqp2z2asfohprhydvr5nb.streamlit.app
-
+   
 2. Install dependencies:
 pip install streamlit
 
 # Running the App
-streamlit run library_manager_streamlit.py
+   ```bash
+   https://personal-library-manager-jgqp2z2asfohprhydvr5nb.streamlit.app
 
-# Notes
+Notes
 Data Persistence: Books are stored in library.txt in the root directory. The file is automatically created if it doesn't exist.
 
 Streamlit Forms are used for cleaner user input.
@@ -56,5 +55,5 @@ Personal-Library-Manager/
 Hussain
 Final Year Software Engineering Student
 
-📧 Email: hussainsamdanis686@gmail.com
-📍 Karachi, Pakistan
+Email: hussainsamdanis686@gmail.com
+Karachi, Pakistan
