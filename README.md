@@ -17,7 +17,7 @@ Built with Python, this app lets you add, remove, search, and view books while t
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Streamlit** for UI
@@ -25,17 +25,19 @@ Built with Python, this app lets you add, remove, search, and view books while t
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Personal-Library-Manager.git
    cd Personal-Library-Manager
+   ```bash
+   https://personal-library-manager-jgqp2z2asfohprhydvr5nb.streamlit.app
 
 2. Install dependencies:
 pip install streamlit
 
-# ▶️ Running the App
+# Running the App
 streamlit run library_manager_streamlit.py
 
 # Notes
@@ -43,14 +45,14 @@ Data Persistence: Books are stored in library.txt in the root directory. The fil
 
 Streamlit Forms are used for cleaner user input.
 
-# 📁 Project Structure
+# Project Structure
 Personal-Library-Manager/
 │
 ├── library_manager.py
 ├── library.txt
 └── README.md                      
 
-# 🧑‍💻 Author
+# Author
 Hussain
 Final Year Software Engineering Student
 
