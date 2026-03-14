@@ -1,59 +1,54 @@
-# Personal Library Manager (Streamlit App)
+# Personal Library Manager
 
-A **Streamlit-powered** Personal Library Manager that allows users to manage their book collection through a user-friendly web interface.  
-Built with Python, this app lets you add, remove, search, and view books while tracking statistics and storing data persistently using file handling.
+A clean and intuitive **Streamlit web application** for managing your personal book collection.  
+Add, remove, search, view, and track reading progress of your books — with persistent storage using a local JSON file.
 
----
+Built to demonstrate practical Python programming, file handling, data persistence, and modern UI development with Streamlit.
 
-## 🚀 Features
+## Features
 
-- **Add Books**: Enter title, author, publication year, genre, and mark as read/unread.
-- **Remove Books**: Delete books by title.
-- **Search Books**: Find books by title or author (case-insensitive).
-- **View All Books**: Display a clean list of all books in your collection.
-- **Statistics**: See total books and reading progress as a percentage.
-- **File Handling**: All books are saved and loaded using a local `library.txt` file in JSON format.
-- **Streamlit UI**: Modern interface with forms, sidebars, radio buttons, and styled outputs.
-
----
+- Add new books with title, author, publication year, genre, and read/unread status
+- Remove books by title
+- Search books by title or author (case-insensitive partial matching)
+- View complete list of books in a well-formatted table
+- Track library statistics:
+  - Total number of books
+  - Reading progress percentage (books marked as read)
+- Persistent data storage using `library.txt` (JSON format)
+- Modern, responsive Streamlit interface with sidebar navigation, forms, and clear feedback
 
 ## Technologies Used
 
-- **Python 3**
-- **Streamlit** for UI
-- **JSON File Handling** for saving and loading data
-
----
+- Python 3
+- Streamlit – for the web interface
+- JSON – for structured data persistence
+- Basic file I/O for reading/writing the library file
 
 ## Installation
 
-1. Clone the repository:
+### Prerequisites
+- Python 3.8 or higher
+- pip
+
+### Steps
+
+1. Clone the repository
+
    ```bash
-   git clone https://github.com/your-username/Personal-Library-Manager.git
+   git clone https://github.com/Hussain-lnnovator/Personal-Library-Manager.git
    cd Personal-Library-Manager
-   
-2. Install dependencies:
-pip install streamlit
 
-# Running the App
-   ```bash
-   https://personal-library-manager-jgqp2z2asfohprhydvr5nb.streamlit.app
-
-Notes
-Data Persistence: Books are stored in library.txt in the root directory. The file is automatically created if it doesn't exist.
-
-Streamlit Forms are used for cleaner user input.
-
-# Project Structure
+2. Project Structure:
 Personal-Library-Manager/
-│
-├── library_manager.py
-├── library.txt
-└── README.md                      
+├── library_manager.py       # Main Streamlit application
+├── library.txt              # Data file (auto-created on first run)
+└── README.md
 
-# Author
+Live Demo
+A deployed version is available here:
+https://personal-library-manager-jgqp2z2asfohprhydvr5nb.streamlit.app
+
+Author:
 Hussain
-Final Year Software Engineering Student
-
-Email: hussainsamdanis686@gmail.com
-Karachi, Pakistan
+Software Engineer
+hussainsamdanis686@gmail.com

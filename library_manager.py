@@ -67,7 +67,7 @@ def display_stats(books):
 
 # App layout
 def main():
-    st.title("📚 Personal Library Manager")
+    st.title("Personal Library Manager")
 
     books = load_books()
 
